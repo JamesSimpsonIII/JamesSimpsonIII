@@ -12,6 +12,7 @@ aspiring Cloud Engineers to follow their dreams of working in the Cloud and gain
     - [Cloud Resume Challenge Infra Automation](https://github.com/JamesSimpsonIII/cloudResumeChallengeApp)
     - [Halloween-Themed Flask App (AWS)](https://github.com/JamesSimpsonIII/spooky-quote-generator)
     - [IaC with CDK | Flask Project Infra](https://github.com/JamesSimpsonIII/spooky-infrastructure)
+    - [Horror Movie Slack Bot | Amazon Lex](https://github.com/JamesSimpsonIII/Horror-Bot)
 
 - 👯 I’m looking to collaborate on Cloud projects with a focus on:
   - IaC (Terraform or AWS CDK)
